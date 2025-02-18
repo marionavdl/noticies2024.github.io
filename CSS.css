@@ -1,0 +1,66 @@
+/*Estil per tota la pàgina web*/
+* {
+  font-family: Helvetica;
+  background-color: antiquewhite;
+  padding: 1px;
+}
+/*Estil pel títol principal*/
+h1 {
+  text-align: center;
+  color: darkred;
+}
+/*Estil per cada article i pels títols amb atribut de classe*/
+h2 {
+  color: orange;
+}
+h2.titol {
+  color: darkred;
+}
+h3 {
+  background-color: darksalmon;
+}
+/*Estil per a la barra de navegació*/
+nav {
+  background-color: navajowhite;
+}
+nav ul {
+  background-color: navajowhite;
+  display: flex;
+}
+nav ul li {
+  background-color: navajowhite;
+  list-style: none;
+  padding: 5px;
+}
+nav ul li a {
+  background-color: darksalmon;
+  color: darkred;
+  text-decoration: none;
+  font-size: 15pt;
+}
+nav ul li a:hover {
+  background-color: darkred;
+  color: darksalmon;
+  text-decoration: none;
+}
+/*Estil per a la citació*/
+q {
+  font-family: seriff;
+}
+/*Estil per a la taula*/
+table, th, td {
+  padding: 5px;
+  border: 1px solid;
+  border-collapse: collapse;
+  border-spacing: 10px;
+}
+/*Estil per a les imatges i vídeos*/
+img, iframe {
+  display: block;
+  widht: 60%;
+  margin: auto;
+}
+/*Estil per al peu de pàgina*/
+footer {
+  text-align: center
+}
