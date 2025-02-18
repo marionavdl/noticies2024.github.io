@@ -2,14 +2,14 @@
 <rss version="2.0">
   <channel>
     <title>Notícies 2024</title>
-    <link>Index.hmtl</link>
+    <link>https://marionavdl.github.io/noticies2024.github.io/Index.html</link>
     <description>Les notícies més importants del 2024</description>
     <language>ca</language>
  
     <item>
       <title>Pactes</title>
       <author>Maria Vidal</author>
-      <link>Notícia_1.html</link>
+      <link>https://marionavdl.github.io/noticies2024.github.io/Not%C3%ADcia_1.html</link>
       <category>Política</category>
       <description>El Govern treu endavant al Congrés la reforma fiscal amb els socis d'esquerra i dreta.</description>
       <pubDate>Wed, 16 Feb 2025 10:00:00 +0100</pubDate>
@@ -17,7 +17,7 @@
      <item>
       <title>SMI</title>
       <author>Maria Vidal</author>
-      <link>Notícia_2.html</link>
+      <link>https://marionavdl.github.io/noticies2024.github.io/Not%C3%ADcia_2.html</link>
       <category>Política</category>
       <description>Yolanda Díaz confirma la data per a la pujada del sou mínim.</description>
       <pubDate>Wed, 07 Jan 2025 10:00:00 +0100</pubDate>
@@ -25,7 +25,7 @@
         <item>
       <title>DANA</title>
       <author>Maria Vidal</author>
-      <link>Notícia_3.html</link>
+      <link>https://marionavdl.github.io/noticies2024.github.io/Not%C3%ADcia_3.html</link>
       <category>Actualitat</category>
       <description>La DANA deixa 115.000 vehicles i 60.000 vivendes sinistrades a València.</description>
       <pubDate>Wed, 25 Jan 2025 10:00:00 +0100</pubDate>
